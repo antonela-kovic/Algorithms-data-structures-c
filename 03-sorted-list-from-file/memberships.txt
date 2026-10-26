@@ -1,0 +1,8 @@
+u101 Ana Horvat 5 2004 300
+u102 Ivan Kovac 3 2002 250
+u103 Maja Babic 11 2003 280
+u104 Luka Juric 3 2002 250
+u105 Petra Novak 7 2005 320
+u106 Marko Peric 1 2003 260
+u107 Ivana Maric 11 2003 280
+u108 Tomislav Vukovic 9 2004 300

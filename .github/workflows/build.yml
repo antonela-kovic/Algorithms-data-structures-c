@@ -1,0 +1,13 @@
+name: build
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build with warnings as errors
+        run: make CFLAGS="-std=c11 -Wall -Wextra -pedantic -Werror -O2"
+      - name: Run on sample input
+        run: make run

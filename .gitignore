@@ -1,0 +1,7 @@
+# build output
+01-student-scores/student_scores
+02-linked-list/linked_list
+03-sorted-list-from-file/memberships
+*.exe
+*.o
+02-linked-list/out*.txt
